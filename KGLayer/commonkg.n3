@@ -1,0 +1,32 @@
+@prefix ns1: <http://aimicroservice.derby.ac.uk/> .
+
+ns1:051edcae-6f60-4f01-ba21-0f7dca12a23b ns1:selectedfeatures "sex.cp.thalach.exang.oldpeak.slope.ca.thal"@en .
+
+ns1:36e4cf2e-5415-4093-b6af-9278d2681737 ns1:outcomes """basketball League - 1st Round
+
+1. San Diego Sockers / San Diego Socks
+After being eliminated in the First Round, San Diego Sockers would qualify for the second round. It would be San Diego Socks' first tournament in league history.
+
+2. Oklahoma City Stingers / Oklahoma City Stingers
+After being eliminated in the First Round, Oklahoma City Socks would qualify for the second round. It would be the Stingers first tournament in league history."""@en .
+
+ns1:5c31cf2a-7104-4094-b627-abd3bb370e53 ns1:outcomes """basketball League players
+Category:Sparta Warriors (baseball) players
+Category:Hokkaido Nippon-Ham Fighters players
+Category:Hanshin Tigers players
+Category:Nippon Professional Baseball infielders
+Category:Orix Buffaloes players
+Category:Gladbach Dodgers players
+Category:Hanshin Tigers coaches
+Category:Japanese expatriate baseball players in Finland
+Category:Japanese expatriate baseball players in Japan
+Category:Japanese expatri"""@en .
+
+ns1:8ee7ab72-5912-4a4f-9ded-6b445be3ad9b ns1:outcomes """basketball League
+
+The Basketball League (, BL) is the league governing body for the professional basketball on the island of Vanuatu.
+
+The current president is Jean-Jacques Nkuna and the current general secretary is Sio Vanuatu.
+
+The BL is responsible for the Vanuatu Qualifying Tournament for the International Basketball Federation (FIBA) to determine the first professional team to represent the African continent in international tournaments. The BL also provides the main sponsorship and assistance"""@en .
+

@@ -1,0 +1,22 @@
+@prefix ns1: <http://aimicroservice.derby.ac.uk/> .
+
+ns1:051edcae-6f60-4f01-ba21-0f7dca12a23b ns1:workflow [ ns1:wf_ims [ ns1:wf_id "2"@en ;
+                    ns1:wf_iloc "pipelinemodels"@en ],
+                [ ns1:wf_id "3"@en ;
+                    ns1:wf_iloc "featuremodelevaluation"@en ],
+                [ ns1:wf_id "1"@en ;
+                    ns1:wf_iloc "spliting"@en ],
+                [ ns1:wf_id "0"@en ;
+                    ns1:wf_iloc "loadnormalpddata"@en ] ] .
+
+ns1:36e4cf2e-5415-4093-b6af-9278d2681737 ns1:workflow [ ns1:wf_ims [ ns1:wf_id "0"@en ;
+                    ns1:wf_iloc "text_generation_pipeline"@en ] ] .
+
+ns1:5c31cf2a-7104-4094-b627-abd3bb370e53 ns1:workflow [ ns1:wf_ims [ ns1:wf_id "0"@en ;
+                    ns1:wf_iloc "text_generation_pipeline"@en ] ] .
+
+ns1:8ee7ab72-5912-4a4f-9ded-6b445be3ad9b ns1:workflow [ ns1:wf_ims [ ns1:wf_id "0"@en ;
+                    ns1:wf_iloc "image_classification_transformer"@en ],
+                [ ns1:wf_id "1"@en ;
+                    ns1:wf_iloc "text_generation_pipeline"@en ] ] .
+
