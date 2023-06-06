@@ -12,5 +12,5 @@ The transformers may needs extra settings of your environment such as GTP-neo
 More information can be viewed in the submitted research paper (in process of review): 
 Title: AIMS: An Automatic Semantic Machine Learning Microservice Framework to Support Biomedical and Bioengineering Research
 
-![image](https://github.com/semanticmachinelearning/AISMK/blob/main/submitwork.pdf)
+Please see abstract by click the ![image](https://github.com/semanticmachinelearning/AISMK/blob/main/submitwork.pdf)
 
