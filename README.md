@@ -10,7 +10,7 @@ The dependencies are specified in the requirements.txt file
 The transformers may needs extra settings of your environment such as GTP-neo
 
 More information can be viewed in the submitted research paper (in process of review): 
-Towards Human-level AI Through Self-supervised Knowledge Learning and Semantic AI Microservices Engineering (Towards_Human_level_AI_knowledge_final.pdf)
+Title: AIMS: An Automatic Semantic Machine Learning Microservice Framework to Support Biomedical and Bioengineering Research
 
 ![image](https://github.com/semanticmachinelearning/AISMK/blob/main/submitwork.pdf)
 
